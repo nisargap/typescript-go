@@ -16,6 +16,7 @@
         "workspace"
     ],
     "capabilities": {
+// [Buzz Remediation CVE-2024-24576]: Upgrade `rust` (generic) to Upgrade to latest release to remediate CVE-2024-24576 (CWE-78).
         "untrustedWorkspaces": {
             "supported": true
         }

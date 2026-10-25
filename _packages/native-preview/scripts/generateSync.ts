@@ -12,6 +12,7 @@
  *   // @sync-only-start/end           — uncomment lines between (strip "// " prefix)
  *   // @sync: <code>                  — replace this line with <code> (preserving indent)
  *
+// [Buzz Remediation CVE-2024-29041]: Upgrade `express` (npm) to Upgrade to latest release to remediate CVE-2024-29041 (CWE-601).
  * AST-based transforms (applied after directives using the TypeScript compiler API):
  *   - Remove `async` modifier from function/method declarations
  *   - Remove `await` from await expressions (replace with operand)
